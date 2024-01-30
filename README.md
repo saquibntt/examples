@@ -11,5 +11,7 @@ Go in build directory and then ctest -V or -VV to see verbose
 
 # Requirement is Gtest should be installed. Follow below steps if its not:
 
-Download Gtest from Github and then do the above 1 and 2 steps
-Finally use "sudo cmake --build build --target install", this installs it at /usr/local/lib
+1) Clone Gtest from Github https://github.com/google/googletest.git
+2) cmake -Bbuild
+3) cmake --build build 
+4) sudo cmake --build build --target install
