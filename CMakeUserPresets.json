@@ -1,0 +1,9 @@
+{
+    "version": 4,
+    "vendor": {
+        "conan": {}
+    },
+    "include": [
+        "/home/sapa4980/work/trainings/2_practice/git_commands/examples-gtest-helloworld/dependencies/CMakePresets.json"
+    ]
+}

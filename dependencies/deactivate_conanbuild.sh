@@ -1,0 +1,1 @@
+. "/home/sapa4980/work/trainings/2_practice/git_commands/examples-gtest-helloworld/dependencies/deactivate_conanbuildenv-debug-x86_64.sh"
